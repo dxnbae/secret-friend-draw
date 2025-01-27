@@ -2,6 +2,8 @@
 
 This project is part of the Alura LATAM Oracle One Challenge. The objective is to create a simple web application where users can add friends' names and randomly select one to determine the "secret friend."
 
+![Screenshot](https://github.com/user-attachments/assets/fd665a2a-6ef0-42d2-8c59-80e9ad7abdcd)
+
 ## Features
 
 - **Add Names**: Users can input friends' names into a text field and add them to a list by clicking the "Add" button.
@@ -25,7 +27,6 @@ This project is developed using:
 3. Add names to the list using the input field and "Add" button.
 4. Click the "Draw Friend" button to randomly select a secret friend.
 
-(https://github.com/user-attachments/assets/ee89871d-ce74-4293-8ead-4c5637db2c23)
 
 ## Author
 Daniel Baena
