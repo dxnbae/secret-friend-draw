@@ -29,4 +29,5 @@ This project is developed using:
 
 
 ## Author
-Daniel Baena
+**Daniel Baena**  
+  [LinkedIn](https://www.linkedin.com/in/gerardo-daniel-ramirez-baena-4069a8322/)
